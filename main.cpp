@@ -1,12 +1,3 @@
 #include <cstdio>
-#include <cstdio> 
 
-int main()
- { std::printf("%s\ 
-
- 
- 
- 
- 
- 
- } 
+int main() { std::printf("Hello World\n"); }
