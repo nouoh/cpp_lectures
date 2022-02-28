@@ -1,3 +1,3 @@
 #include <cstdio>
 
-int main() { std::printf("Hello World\n"); }
+int main() { std::printf("nounou\n"); }
