@@ -1,3 +1,3 @@
 #include <cstdio>
 
-int main() { std::printf("nounou\n"); }
+int main() { std::printf("uwe\n"); }
